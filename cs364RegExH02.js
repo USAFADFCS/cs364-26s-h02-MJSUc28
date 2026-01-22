@@ -1,7 +1,7 @@
 /*
  * name: Michael Ulery
  * CS364 - H2
- * Documentation:
+ * Documentation: I sued the following site to vallidate my regex: https://regex101.com/. I recieved no other help or used any other resources.
  *
  */
 
